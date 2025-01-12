@@ -1,16 +1,23 @@
-## Hi there 👋
+Abdul Haseeb | Software Engineer | Front-End Developer
+🌟 Transforming Ideas into Engaging Web Experiences
 
-<!--
-**abhaseeb200/abhaseeb200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I’m Abdul Haseeb, a passionate software engineer specializing in front-end development. With over 2 years of experience, I craft seamless user interfaces and robust web solutions using modern technologies.
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Languages: JavaScript, TypeScript, PHP, CSS, HTML
+Frameworks & Libraries: React.js, Next.js, WordPress, Express.js, Node.js
+Database: SQL, MongoDB
+Tools: Git, VS Code, Figma, Photoshop, UI Frameworks (e.g., Tailwind CSS, Bootstrap, Material UI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education:
+Bachelor's in Software Engineering from Virtual University of Pakistan
+
+🌍 What I Do:
+Develop responsive, user-friendly web applications
+Build custom WordPress themes
+Collaborate on UI/UX to deliver exceptional design-to-code experiences
+
+🔍 Looking for Opportunities:
+I’m open to contributing to exciting projects, collaborating with developers, and learning new technologies to stay ahead in this ever-evolving field.
+
+🚀 Let’s connect and create something amazing together!
